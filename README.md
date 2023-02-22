@@ -2,6 +2,8 @@
 [![GitHub Super-Linter](https://github.com/awsdocs/aws-doc-sdk-examples/actions/workflows/super-linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 ![[]](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue)
 
+### Forked so that I could play around with and update the Java SDK v1 code
+
 # AWS SDK Code Examples
 This repository contains code examples that demonstrate how to use the [AWSK SDKs](https://aws.amazon.com/developer/tools/) to interact with [AWS services](https://aws.amazon.com/products).
 
